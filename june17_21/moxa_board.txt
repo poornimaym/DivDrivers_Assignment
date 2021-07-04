@@ -1,0 +1,24 @@
+Details about moxa board:
+
+chip (processor):
+ MX-1610C parts manufactured by MOXA 
+
+A Greener Serial-to-Ethernet Solution
+
+Serial Standards:
+NPort 5110A: RS-232
+NPort 5130A: RS-422/485
+NPort 5150A: RS-232/422/485
+
+
+Software
+Network Protocols: ICMP, IPv4, TCP, UDP, DHCP, BOOTP, Telnet,
+DNS, SNMP V1, HTTP, SMTP, IGMP V1/2
+Configuration Options: Web Console (with new Quick Setup), Serial
+Console (NPort 5110A/5150A only), Telnet Console, Windows Utility
+Windows Real COM Drivers: Windows 95/98/ME/NT/2000, Windows
+XP/2003/Vista/2008/7/8/8.1 (x86/x64), Windows 2008 R2/2012/2012
+R2 (x64), Windows Embedded CE 5.0/6.0, Windows XP Embedded
+Fixed TTY Drivers: SCO Unix, SCO OpenServer, UnixWare 7, QNX
+4.25, QNX 6, Solaris 10, FreeBSD, AIX 5.x, HP-UX 11i, Mac OS X 
+Linux Real TTY Drivers: Linux 2.4.x, 2.6.x, 3.x

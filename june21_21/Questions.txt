@@ -1,0 +1,4 @@
+21/06/2021 Assignment Questions
+
+1. Write a C Program to show matrix multiplication on 2-D Array. 
+2. Write a C Program to find inverse of a matrix.
